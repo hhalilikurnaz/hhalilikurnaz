@@ -70,15 +70,19 @@
 ## 🔥 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilkurnaz&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhalilikurnaz&layout=compact&theme=radical">
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-📧 **Email:** h.ibrahimkurnaz33@gmail.com  
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/halilibrahimkurnaz33/)  
+📧 **Email:** halil@example.com  
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hhalilikurnaz)  
 📊 **Kaggle:** [My Kaggle Profile](https://www.kaggle.com/halilbrahimkurnaz/code)  
+
+---
+
+
 
 
 
