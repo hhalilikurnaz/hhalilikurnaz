@@ -32,18 +32,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
----
-
-## 🔥 Most Used Languages  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilkurnaz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
 ## 📫 Connect with Me  
-📧 **Email:** halil@example.com  
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/halilkurnaz)  
-📝 **Blog:** [halilkurnaz.dev](https://halilkurnaz.dev)  
+📧 **Email:** h.ibrahimkurnaz33@gmail.com  
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/halilibrahimkurnaz/)  
 📊 **Kaggle:** [My Kaggle Profile](https://www.kaggle.com/halilbrahimkurnaz/code)  
 
 
