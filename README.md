@@ -24,7 +24,6 @@ Focused on Python, LLMs, NLP, ML, DL
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/></a>
 </p>
 
----
 
 ## Most Used Languages  
 
@@ -40,8 +39,6 @@ Focused on Python, LLMs, NLP, ML, DL
 
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/halilibrahimkurnaz33/)  
 **Kaggle:** [My Kaggle Profile](https://www.kaggle.com/halilbrahimkurnaz/code)  
-
----
 
 
 
