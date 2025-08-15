@@ -26,7 +26,7 @@ Focused on Python, LLMs, NLP, ML, DL
 
 ---
 
-## 🔥 Most Used Languages  
+## Most Used Languages  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhalilikurnaz&layout=compact&theme=radical">
@@ -35,10 +35,11 @@ Focused on Python, LLMs, NLP, ML, DL
 
 ---
 
-## 📫 Connect with Me  
-📧 **Email:** h.ibrahimkurnaz33@gmail.com 
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/halilibrahimkurnaz33/)  
-📊 **Kaggle:** [My Kaggle Profile](https://www.kaggle.com/halilbrahimkurnaz/code)  
+## Connect with Me  
+**Email:** h.ibrahimkurnaz33@gmail.com 
+
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/halilibrahimkurnaz33/)  
+**Kaggle:** [My Kaggle Profile](https://www.kaggle.com/halilbrahimkurnaz/code)  
 
 ---
 
