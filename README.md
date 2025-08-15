@@ -32,13 +32,6 @@
 
 
 
-## Connect with Me  
-**Email:** h.ibrahimkurnaz33@gmail.com 
-
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/halilibrahimkurnaz33/)  
-**Kaggle:** [My Kaggle Profile](https://www.kaggle.com/halilbrahimkurnaz/code)  
-
-
 
 
 
