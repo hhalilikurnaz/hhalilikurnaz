@@ -1,6 +1,5 @@
 # Hey I'm Halil İbrahim 👋 
 
-## 🤖 AI, Machine Learning & Computer Vision Enthusiast  
 
 ✨Currently working on **AI-powered projects**, **Machine Learning**, and **Computer Vision**  
 ✨Focused on Python, LLMs, NLP, ML, DL
