@@ -25,7 +25,7 @@ Focused on Python, LLMs, NLP, ML, DL
 </p>
 
 
-## Most Used Languages  
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhalilikurnaz&layout=compact&theme=radical">
