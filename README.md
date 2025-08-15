@@ -32,7 +32,6 @@ Focused on Python, LLMs, NLP, ML, DL
 </p>
 
 
----
 
 ## Connect with Me  
 **Email:** h.ibrahimkurnaz33@gmail.com 
