@@ -24,7 +24,7 @@ Focused on Python, LLMs, NLP, ML, DL
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35" alt="Git"/></a>
 </p>
 
-
+---
 
 
 <p align="center">
