@@ -1,8 +1,8 @@
 # Hey I'm Halil İbrahim 👋 
 
 
-✨Currently working on **AI-powered projects**, **Machine Learning**, and **Computer Vision**  
-✨Focused on Python, LLMs, NLP, ML, DL
+✨Currently working on **AI-powered projects**,  
+✨Focused on JavaScript , Python, LLMs, ML
 
 
 ---
