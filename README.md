@@ -2,13 +2,12 @@
 ![Profile Banner](light.svg#gh-light-mode-only)
 
 # Hey I'm Halil İbrahim 👋
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhaliikurnaz/hhaliikurnaz/refs/heads/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhaliikurnaz/hhaliikurnaz/refs/heads/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hhaliikurnaz/hhaliikurnaz/refs/heads/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhaliikurnaz/hhaliikurnaz/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhaliikurnaz/hhaliikurnaz/main/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hhaliikurnaz/hhaliikurnaz/main/github-snake.svg" />
   </picture>
 </p>
