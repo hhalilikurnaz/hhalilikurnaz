@@ -1,7 +1,66 @@
 ![Profile Banner](dark.svg#gh-dark-mode-only)
 ![Profile Banner](light.svg#gh-light-mode-only)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&width=600&lines=AI+Software+Engineer;Full-Stack+Developer;AgriTech+Founder;Building+FlowOne+%26+Bah%C3%A7e+%C4%B0kizi)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&width=700&lines=AI+Software+Engineer;Agentic+AI+%26+Multi-Agent+Systems;Building+FlowOne+-+AI+Agent+Platform;RAG+Pipelines+%7C+Tool-Calling+%7C+LangGraph" />
+</p>
+
+<p align="center">
+I build production-grade AI agent systems — from real-time voice pipelines to multi-agent orchestration frameworks.
+Currently architecting <b>FlowOne</b>, an AI-native SaaS platform, while designing reusable agent workflows with <b>LangGraph</b>.
+</p>
+
+<p align="center">
+  🔭 <b>Currently building:</b> multi-tenant workspace isolation for FlowOne &nbsp;|&nbsp;
+  🌱 <b>Currently exploring:</b> agent memory architectures
+</p>
+
+<br>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [FlowOne — AI Agent Orchestration Platform](https://useflowone.com)
+**Lead Architect & Developer** · Oct 2024 – Present
+
+AI-native SaaS platform with Agent Studio, Workflow Studio, and Voice AI. Architected a real-time WebSocket voice pipeline (STT → LLM → TTS) with omnichannel integrations (WhatsApp Business API, Shared Inbox, Web Chat) and multi-tenant enterprise infrastructure.
+
+`FastAPI` `PostgreSQL` `Docker` `WebSockets` `ElevenLabs` `Twilio`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ [PinMind — Multi-Agent Orchestration Framework](https://github.com/hhalilikurnaz)
+**Lead Developer** · Oct 2024 – Present
+
+Context-aware agent routing, planning, and task orchestration built on LangGraph. Reusable agent workflows with modular execution, shared memory, and memory-aware multi-step execution for autonomous task handling.
+
+`LangGraph` `Python` `Multi-Agent` `Shared Memory`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔥 Fire Drone — Autonomous Wildfire Detection
+Capstone engineering project. Trained a **YOLOv8** computer vision model on a combined Kaggle/Roboflow dataset, reaching **~95% detection accuracy**. Built a FastAPI backend streaming real-time detection data over WebSockets to a React dashboard.
+
+`YOLOv8` `Computer Vision` `FastAPI` `WebSockets` `React`
+
+</td>
+</tr>
+</table>
+
+## 💼 Experience
+
+<table>
+<tr><td><b>Backend AI Engineer</b></td><td><a href="https://flyrank.ai">Flyrank AI</a></td><td>Jun 2026 – Present</td></tr>
+<tr><td><b>AI Engineer</b></td><td><a href="https://aibusinessschool.com">AI Business School</a></td><td>Nov 2025 – Feb 2026</td></tr>
+<tr><td><b>Business Analyst & Conversational AI Designer</b></td><td><a href="https://www.cbot.ai">CBOT</a></td><td>Oct 2024 – Jan 2025</td></tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -30,6 +89,10 @@
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=hhalilikurnaz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
 </p>
 
+<p align="center">
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=hhalilikurnaz&theme=dark&stats=true" width="100%" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
@@ -48,6 +111,8 @@
   <a href="mailto:h.ibrahimkurnaz33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/hhalilikurnaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+<p align="center">💬 <b>Let's build something —</b> <a href="mailto:h.ibrahimkurnaz33@gmail.com">reach out</a></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hhalilikurnaz&label=Profile+Views&color=22d3ee&style=flat" />
