@@ -284,33 +284,23 @@
           
     <g transform="translate(0,0)" opacity="1">
       <animate attributeName="opacity" values="0;1" begin="1.20s" dur="0.5s" fill="freeze"/>
-      <text x="0" y="0" font-size="15" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">📍</text>
-      <text x="26" y="0" font-size="14" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">Istanbul, Turkey</text>
+      <text x="0" y="0" font-size="15.5" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">💼</text>
+      <text x="28" y="0" font-size="14.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">AI Software Engineer</text>
     </g>
-    <g transform="translate(0,23)" opacity="1">
+    <g transform="translate(0,29)" opacity="1">
       <animate attributeName="opacity" values="0;1" begin="1.50s" dur="0.5s" fill="freeze"/>
-      <text x="0" y="0" font-size="15" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">🎓</text>
-      <text x="26" y="0" font-size="14" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">BSc Software Engineering - Istanbul Aydin Uni</text>
+      <text x="0" y="0" font-size="15.5" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">📍</text>
+      <text x="28" y="0" font-size="14.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">Istanbul, Turkey</text>
     </g>
-    <g transform="translate(0,46)" opacity="1">
+    <g transform="translate(0,58)" opacity="1">
       <animate attributeName="opacity" values="0;1" begin="1.80s" dur="0.5s" fill="freeze"/>
-      <text x="0" y="0" font-size="15" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">⚡</text>
-      <text x="26" y="0" font-size="14" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">Building FlowOne - AI Agent Platform</text>
-    </g>
-    <g transform="translate(0,69)" opacity="1">
-      <animate attributeName="opacity" values="0;1" begin="2.10s" dur="0.5s" fill="freeze"/>
-      <a xlink:href="https://useflowone.com/"><text x="0" y="0" font-size="15" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">🌐</text>
-      <text x="26" y="0" font-size="14" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">useflowone.com</text></a>
-    </g>
-    <g transform="translate(0,92)" opacity="1">
-      <animate attributeName="opacity" values="0;1" begin="2.40s" dur="0.5s" fill="freeze"/>
-      <a xlink:href="mailto:h.ibrahimkurnaz33@gmail.com"><text x="0" y="0" font-size="15" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">✉️</text>
-      <text x="26" y="0" font-size="14" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">h.ibrahimkurnaz33@gmail.com</text></a>
+      <a xlink:href="mailto:h.ibrahimkurnaz33@gmail.com"><text x="0" y="0" font-size="15.5" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8">✉️</text>
+      <text x="28" y="0" font-size="14.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC">h.ibrahimkurnaz33@gmail.com</text></a>
     </g>
         </g>
 
-        <text x="0" y="243" font-family="'Fira Code','SF Mono',monospace" font-size="13" fill="#94A3B8">$ skills --list</text>
-        <g transform="translate(0,257)">
+        <text x="0" y="215" font-family="'Fira Code','SF Mono',monospace" font-size="13" fill="#94A3B8">$ skills --list</text>
+        <g transform="translate(0,229)">
           
     <g transform="translate(0,0)" opacity="1">
       <animate attributeName="opacity" values="0;1" begin="2.60s" dur="0.4s" fill="freeze"/>
@@ -318,156 +308,150 @@
     </g>
     <g class="pill" transform="translate(0,20)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="2.75s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="116" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="58" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Agentic AI</text>
+      <rect x="0" y="0" width="121" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="60" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Agentic AI</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.25s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(124.0,20)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(130.0,20)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="2.81s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="251" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="126" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Multi-Agent Orchestration</text>
+      <rect x="0" y="0" width="260" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="130" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Multi-Agent Orchestration</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.31s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(383.0,20)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(399.5,20)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="2.87s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="107" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="54" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">LangGraph</text>
+      <rect x="0" y="0" width="112" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="56" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">LangGraph</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.37s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(0,46)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(0,50)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="2.93s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="143" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="72" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">RAG Pipelines</text>
+      <rect x="0" y="0" width="149" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="74" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">RAG Pipelines</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.43s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(151.0,46)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(157.9,50)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="2.99s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="134" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="67" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Tool-Calling</text>
+      <rect x="0" y="0" width="140" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="70" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Tool-Calling</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.49s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(293.0,46)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(306.5,50)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.05s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="125" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="62" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Claude Code</text>
+      <rect x="0" y="0" width="130" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="65" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Claude Code</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.55s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(426.0,46)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(0,80)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.11s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="170" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="85" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Machine Learning</text>
+      <rect x="0" y="0" width="177" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="88" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Machine Learning</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.61s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(0,72)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(185.8,80)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.17s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="161" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="80" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Computer Vision</text>
+      <rect x="0" y="0" width="168" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="84" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Computer Vision</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="4.67s" repeatCount="indefinite"/>
     </g>
-    <g transform="translate(0,104)" opacity="1">
+    <g transform="translate(0,120)" opacity="1">
       <animate attributeName="opacity" values="0;1" begin="3.10s" dur="0.4s" fill="freeze"/>
       <text x="0" y="0" font-size="11.5" font-family="'Fira Code','SF Mono',monospace" fill="#94A3B8" letter-spacing="0.5">// Full-Stack</text>
     </g>
-    <g class="pill" transform="translate(0,124)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(0,140)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.73s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="80" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="40" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Python</text>
+      <rect x="0" y="0" width="84" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="42" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Python</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.23s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(88.0,124)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(92.80000000000001,140)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.79s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="116" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="58" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">TypeScript</text>
+      <rect x="0" y="0" width="121" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="60" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">TypeScript</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.29s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(212.0,124)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(222.8,140)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.85s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="71" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="36" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">React</text>
+      <rect x="0" y="0" width="74" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="37" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">React</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.35s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(291.0,124)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(306.3,140)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.91s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="89" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="44" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Next.js</text>
+      <rect x="0" y="0" width="93" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="47" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Next.js</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.41s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(388.0,124)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(408.40000000000003,140)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="3.97s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="89" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="44" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Node.js</text>
+      <rect x="0" y="0" width="93" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="47" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Node.js</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.47s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(485.0,124)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(510.50000000000006,140)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="4.03s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="89" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="44" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">FastAPI</text>
+      <rect x="0" y="0" width="93" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="47" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">FastAPI</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.53s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(0,150)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(0,170)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="4.09s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="116" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="58" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">PostgreSQL</text>
+      <rect x="0" y="0" width="121" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="60" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">PostgreSQL</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.59s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(124.0,150)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(130.0,170)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="4.15s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="89" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="44" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">MongoDB</text>
+      <rect x="0" y="0" width="93" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="47" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">MongoDB</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.65s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(221.0,150)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(232.10000000000002,170)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="4.21s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="80" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="40" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Docker</text>
+      <rect x="0" y="0" width="84" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="42" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Docker</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.71s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(309.0,150)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(324.90000000000003,170)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="4.27s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="53" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="26" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">AWS</text>
+      <rect x="0" y="0" width="56" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="28" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">AWS</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.77s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(370.0,150)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(389.80000000000007,170)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="4.33s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="116" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="58" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">WebSockets</text>
+      <rect x="0" y="0" width="121" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="60" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">WebSockets</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.83s" repeatCount="indefinite"/>
     </g>
-    <g class="pill" transform="translate(494.0,150)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
+    <g class="pill" transform="translate(519.8000000000001,170)" opacity="1" style="transform-box:fill-box; transform-origin:center;">
       <animate attributeName="opacity" values="0;1" begin="4.39s" dur="0.35s" fill="freeze"/>
-      <rect x="0" y="0" width="53" height="22" rx="11" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
-      <text x="26" y="15" font-size="10" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Git</text>
+      <rect x="0" y="0" width="56" height="24" rx="12" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+      <text x="28" y="16" font-size="10.5" font-family="'Fira Code','SF Mono',monospace" fill="#F8FAFC" text-anchor="middle">Git</text>
       <animate attributeName="opacity" additive="sum" values="1;0.85;1" dur="3s" begin="5.89s" repeatCount="indefinite"/>
     </g>
         </g>
 
-        <g transform="translate(0,443)">
+        <g transform="translate(0,439)">
           <text x="0" y="0" font-family="'Fira Code','SF Mono',monospace" font-size="13" fill="#94A3B8">$ connect --socials</text>
           <g transform="translate(0,20)" opacity="1">
             <animate attributeName="opacity" values="0;1" begin="3.40s" dur="0.5s" fill="freeze"/>
             <a xlink:href="https://github.com/hhalilikurnaz">
             <g transform="translate(0,0)">
-              <circle cx="12" cy="10" r="16" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.6" filter="url(#pillGlow)"/>
-              <text x="12" y="14" text-anchor="middle" font-family="'Fira Code','SF Mono',monospace" font-size="10" fill="#F8FAFC">GH</text>
+              <circle cx="13" cy="11" r="17" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.6" filter="url(#pillGlow)"/>
+              <text x="13" y="15" text-anchor="middle" font-family="'Fira Code','SF Mono',monospace" font-size="10" fill="#F8FAFC">GH</text>
             </g>
             </a>
             <a xlink:href="https://www.linkedin.com/in/halilibrahimkurnaz33/">
-            <g transform="translate(44,0)">
-              <circle cx="12" cy="10" r="16" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.6" filter="url(#pillGlow)"/>
-              <text x="12" y="14" text-anchor="middle" font-family="'Fira Code','SF Mono',monospace" font-size="9.5" fill="#F8FAFC">in</text>
+            <g transform="translate(48,0)">
+              <circle cx="13" cy="11" r="17" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.6" filter="url(#pillGlow)"/>
+              <text x="13" y="15" text-anchor="middle" font-family="'Fira Code','SF Mono',monospace" font-size="9.5" fill="#F8FAFC">in</text>
             </g>
             </a>
             <a xlink:href="https://www.kaggle.com/halilibrahimkurnaz">
-            <g transform="translate(88,0)">
-              <circle cx="12" cy="10" r="16" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.6" filter="url(#pillGlow)"/>
-              <text x="12" y="14" text-anchor="middle" font-family="'Fira Code','SF Mono',monospace" font-size="7.5" fill="#F8FAFC">KG</text>
-            </g>
-            </a>
-            <a xlink:href="https://useflowone.com/">
-            <g transform="translate(132,0)">
-              <circle cx="12" cy="10" r="16" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.6" filter="url(#pillGlow)"/>
-              <text x="12" y="14" text-anchor="middle" font-family="'Fira Code','SF Mono',monospace" font-size="9" fill="#F8FAFC">web</text>
+            <g transform="translate(96,0)">
+              <circle cx="13" cy="11" r="17" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.6" filter="url(#pillGlow)"/>
+              <text x="13" y="15" text-anchor="middle" font-family="'Fira Code','SF Mono',monospace" font-size="7.5" fill="#F8FAFC">KG</text>
             </g>
             </a>
           </g>
